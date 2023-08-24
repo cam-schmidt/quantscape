@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: quantscape
+Version: 0.1.0
+Summary: A quantitative finance Python library for option pricing, volatility insights & Greeks computation.
+Home-page: URL to your library's repository or website
+Author: Cam Schmidt
+License: MIT License
+Description-Content-Type: text/markdown
+License-File: LICENSE
